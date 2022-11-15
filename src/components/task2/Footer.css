@@ -1,0 +1,11 @@
+
+  .overlay {
+    background: rgba(44, 181, 108, 0.5); /* Black see-through */
+    width: 100%;
+  }
+  
+  .container-1  {
+    background-image: url("./images/image-2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+  }
