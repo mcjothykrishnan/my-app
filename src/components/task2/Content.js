@@ -152,7 +152,7 @@ function Content() {
               <div className="col-md-6  p-0">
                 <div className="card border-0">
                   <div className="card-image position-relative   ">
-                    <img className="system w-100 h-100 " src={grid1} />
+                    <img className="system w-100 h-100 " src={grid1} alt="grid" />
                     <div className="card-img-overlay position-absolute d-flex justify-content-center align-items-end  p-0 ">
                       <div className="text-white  d-flex justify-content-start w-100 p-2 overim">
                         Freelancer
@@ -164,7 +164,7 @@ function Content() {
               <div className="col-md-6  p-0">
                 <div className="card border-0">
                   <div className="card-image position-relative   ">
-                    <img className="system w-100 h-100 " src={grid2} />
+                    <img className="system w-100 h-100 " src={grid2}  alt="grid" />
                     <div className="card-img-overlay position-absolute d-flex justify-content-center align-items-end  p-0 ">
                       <div className="text-white bg-opacity-75 d-flex justify-content-start w-100 p-2 overim">
                         Online Shopping
@@ -178,7 +178,7 @@ function Content() {
               <div className="col-md-6  p-0">
                 <div className="card border-0">
                   <div className="card-image position-relative   ">
-                    <img className="system w-100 h-100 " src={grid3} />
+                    <img className="system w-100 h-100 " src={grid3}  alt="grid" />
                     <div className="card-img-overlay position-absolute d-flex justify-content-center align-items-end  p-0 ">
                       <div className="text-white bg-opacity-75 d-flex justify-content-start w-100 p-2 overim">
                         Online Sellers
@@ -190,7 +190,7 @@ function Content() {
               <div className="col-md-6  p-0">
                 <div className="card border-0">
                   <div className="card-image position-relative   ">
-                    <img className="system w-100 h-100 " src={grid4} />
+                    <img className="system w-100 h-100 " src={grid4}  alt="grid" />
                     <div className="card-img-overlay position-absolute d-flex justify-content-center align-items-end  p-0 ">
                       <div className="text-white bg-opacity-75 d-flex justify-content-start w-100 p-2 overim">
                         Affiliate Marketing

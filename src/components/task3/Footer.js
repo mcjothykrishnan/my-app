@@ -1,10 +1,9 @@
-import React from "react";
-
-function Footer() {
+import React from 'react'
+import "./task3.css"
+export default function Footer() {
   return (
     <>
-      <footer className="bg-dark text-center text-lg-start text-white">
-        <div className="container text-center text-md-start">
+    <div className="footer container text-center text-md-start">
           <div className="row py-5">
             <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
               <h6 className="fw-bold">About us</h6>
@@ -201,19 +200,7 @@ function Footer() {
             </div>
           </div>
         </div>
-
-        <div
-          className="text-center p-3 sticky-bottom"
-          style={{ backgroundColor: "rgba(0, 0, 0, 0.2)" }}
-        >
-          Copyright © 2022 All right reserved by<span> </span>
-          <a className="text-white" href="#!">
-            JothyKrishnanMC
-          </a>
-        </div>
-      </footer>
     </>
-  );
+  )
 }
 
-export default Footer;
